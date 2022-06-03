@@ -5,5 +5,4 @@ Joke API
 https://sv443.net/jokeapi/v2/
 Gif
 https://giphy.com/
-\n
 https://hoangnguyen219.github.io/joke_teller/
